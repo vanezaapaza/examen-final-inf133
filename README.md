@@ -118,3 +118,13 @@ Durante el examen solo puede consultar los siguientes recursos:
 - [Documentación de SQLite](https://www.sqlite.org/docs.html)
 - [Documentación de Swagger](https://swagger.io/docs/)
 - [Documentación de GitHub Actions](https://docs.github.com/en/actions)
+
+### Comandos Útiles
+- Windows:
+``` bash
+$env:PYTHONPATH="<la ruta de tu proyecto>"
+```
+- Linux:
+```bash
+export PYTHONPATH=$(pwd)
+```
